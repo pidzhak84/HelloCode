@@ -1,0 +1,15 @@
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\bin\Debug\net7.0\Ex002_HelloUser.exe
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\bin\Debug\net7.0\Ex002_HelloUser.deps.json
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\bin\Debug\net7.0\Ex002_HelloUser.runtimeconfig.json
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\bin\Debug\net7.0\Ex002_HelloUser.dll
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\bin\Debug\net7.0\Ex002_HelloUser.pdb
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.csproj.AssemblyReference.cache
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.AssemblyInfoInputs.cache
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.AssemblyInfo.cs
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.dll
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\refint\Ex002_HelloUser.dll
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.pdb
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\Ex002_HelloUser.genruntimeconfig.cache
+C:\УЧЕБА\Языки программирования\C_sharp\Ex002_HelloUser\obj\Debug\net7.0\ref\Ex002_HelloUser.dll
